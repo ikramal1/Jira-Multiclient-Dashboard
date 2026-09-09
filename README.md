@@ -24,6 +24,16 @@ Selectable via filter or drillthrough from the Overview table.
 - Tickets-created-per-month trend, to spot rising workload early
 - A table of tickets requiring action, each tagged with why (overdue, unassigned, or both)
 
+## Screenshots
+
+**Overview page** — highlights the single most critical client, ranks all clients by urgency, and breaks down overdue tickets by developer.
+
+![Overview page](screenshots/vue-ensemble.png)
+
+**Detail page** — per-client KPIs, status/priority breakdown, cumulative completion trend, and a table of tickets requiring action.
+
+![Detail page](screenshots/vue-detaillee.png)
+
 ## Data model
 
 Star schema with three tables:
