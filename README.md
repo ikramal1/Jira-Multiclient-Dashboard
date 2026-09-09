@@ -28,11 +28,11 @@ Selectable via filter or drillthrough from the Overview table.
 
 **Overview page** — highlights the single most critical client, ranks all clients by urgency, and breaks down overdue tickets by developer.
 
-![Overview page](screenshots/vue-ensemble.png)
+![Overview page](vue_d_ensemble.png)
 
 **Detail page** — per-client KPIs, status/priority breakdown, cumulative completion trend, and a table of tickets requiring action.
 
-![Detail page](screenshots/vue-detaillee.png)
+![Detail page](vue_detaille.png)
 
 ## Data model
 
